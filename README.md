@@ -1,7 +1,6 @@
 # PHP Design Patterns
 ## Creational
-### Singleton
-*[link](https://github.com/domanskyi/php-design-patterns/tree/master/Creational/Singleton)*
+### [Singleton](https://github.com/domanskyi/php-design-patterns/tree/master/Creational/Singleton)
 Шаблон проектирования позволяет создать только один экземпляр определенного класса, тем самым избавив код от нагромождения объектов.
 
 **Плюсы:**
@@ -24,5 +23,5 @@
 * ??
 
 ### [Prototype]()
-
+Достаточно гибкий шаблон, который используется для получения большого количества объектов одного (возможно, заранее неизвестного) класса. 
 
